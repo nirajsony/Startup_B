@@ -1,0 +1,4 @@
+Insert address in [CheckoutOrder_tbl]  if New selected on OrderInfo/2
+Update RmId and OrderId later for this table
+
+Palladian Shelf from New Client 
