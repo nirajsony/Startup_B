@@ -4,6 +4,6 @@ namespace Startup_B.Services.stock
 {
     public interface IStock
     {
-        public Task<List<User>> ReadExcelAsync(string fileName);
+        public Task<List<StockModel>> ReadExcelAsync(string fileName);
     }
 }
